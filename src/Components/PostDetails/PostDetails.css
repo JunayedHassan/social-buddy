@@ -1,0 +1,10 @@
+.details {
+    background-color: rgba(125, 160, 255, 0.109);
+    border: 2px solid rgb(191, 207, 251);
+    padding: 20px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+.details h3{
+    color: #3f51b5;
+}

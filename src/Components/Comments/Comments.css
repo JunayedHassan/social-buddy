@@ -1,0 +1,27 @@
+
+.comments{
+    margin: 30px 80px;
+    border-bottom: 2px solid rgb(125, 159, 255);
+    border-left: 2px solid rgb(158, 182, 250);
+    border-radius: 10px;
+    padding: 15px;
+}
+.commenter{
+    color: sandybrown;
+    margin: 0;
+}
+.cmtEmail{
+    margin: 0;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.emailHighlight{
+    color: rgb(141, 130, 238);
+}
+.roundedImg{
+    margin-right: 25px;
+}
+.cmtDetails{
+    color: rgb(128, 126, 126);
+    margin: 0;
+}
